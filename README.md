@@ -34,6 +34,5 @@
   * _python3 dio-live-wordcount-test.py -r emr s3://{your_s3_bucket_name}/data/SherlockHolmes.txt --output-dir=s3://{your_s3_bucket_name}/output/logs1 --cloud-tmp-dir=s3://{your_s3_bucket_name}/temp/_
 
 
-*'''Link -- Repositório no GitHub com a implementação de referência
-	https://github.com/cassianobrexbit/DIO-LiveCoding-AWS-BigData.git
- '''
+*Link -- Repositório no GitHub com a implementação de referência
+     '''	https://github.com/cassianobrexbit/DIO-LiveCoding-AWS-BigData.git '''
